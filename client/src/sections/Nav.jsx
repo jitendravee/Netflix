@@ -19,16 +19,15 @@ const Nav = () => {
         className="w-[150] h-[23]"
         />
           </li>
-<li>
-<FontAwesomeIcon icon="fa-sharp fa-solid fa-camera-movie" />
-</li>
+
         <li className="" >
-          <button className="bg-red-600 rounded-lg px-3 py-1 text-white font-bold cursor-pointer"> Sign in</button>
+          <button className="bg-red-600 rounded-lg px-3 py-1  text-white font-bold cursor-pointer"> Sign in</button>
         </li>
         </ul>
         
 
         </div>
+    
   
  
     )
